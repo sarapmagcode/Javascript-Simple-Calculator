@@ -1,2 +1,2 @@
 # Javascript-Simple-Calculator
-![image](https://user-images.githubusercontent.com/85553852/169705982-ea567216-ef89-463e-9b7b-0811d8387aab.png)
+![image](https://user-images.githubusercontent.com/85553852/169706002-36810c37-90c5-4500-a9f4-67251b08dd35.png)
